@@ -21,9 +21,9 @@ D) lift
 - **結果のフィードバック:** クイズ終了後、正解した単語と間違えた単語のリストを表示します。
 
 ### 📖 視覚的な資料
-このアプリの実際の使用画面をGoogle Documentにて、解説付きでまとめました。こちらも併せてご覧ください。
+このアプリの実際の使用画面をPDFにて、解説付きでまとめました。こちらも併せてご覧ください。
 
-**[→ アプリ使用画面（Google Document）を見る](https://docs.google.com/document/d/1TeX1V9A1vtZY6gQuGIBW-w9bsJi9L_m5lfm5DyOUs1g/edit?usp=sharing)**
+**[→ アプリ使用画面（PDF）を見る](./app_UI.pdf)**
 
 ## 💻 使い方
 1.  このリポジトリをローカル環境にダウンロードします。
